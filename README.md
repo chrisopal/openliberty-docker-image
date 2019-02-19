@@ -1,6 +1,8 @@
 # OpenLiberty Docker Image
 
 ```
-docker build -t "yourtag" 
+docker build -t "yourtag" .
 ```
+
+
 
